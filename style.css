@@ -7,7 +7,10 @@ h1 {
   color: black;
   font-family: Georgia, serif;
   font-size: 300%;
+}
 
+a {
+  margin-right: 10px;
 }
 
 p  {
